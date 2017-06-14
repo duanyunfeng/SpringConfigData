@@ -1,1 +1,2 @@
-config.name= ¿ΩÁ
+my-config:
+  appName: my-app
